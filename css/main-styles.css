@@ -138,7 +138,7 @@ button {
 }
 
 .main-content {
-    background: linear-gradient(rgba(15, 47, 69, 0.3), rgba(15, 47, 69, 0.7)), url(../images/hero-img.jpg);
+    background: linear-gradient(rgba(15, 47, 69, 0.3), rgba(15, 47, 69, 0.7)), url(https://images.unsplash.com/photo-1519741497674-611481863552?w=1920&q=80);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -355,7 +355,7 @@ button {
 /* Persuading Section */
 
 .persuade-section {
-    background: linear-gradient(rgba(15, 47, 69, 0.3), rgba(15, 47, 69, 0.7)), url(../images/Persuade-bg.jpg);
+    background: linear-gradient(rgba(15, 47, 69, 0.3), rgba(15, 47, 69, 0.7)), url(https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=1920&q=80);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -473,7 +473,7 @@ button {
 
 .call-to-action {
     width: 100%;
-    background: linear-gradient(rgba(15, 47, 69, 0.6), rgba(15, 47, 69, 0.6)), url(../images/call-to-action.jpg);
+    background: linear-gradient(rgba(15, 47, 69, 0.6), rgba(15, 47, 69, 0.6)), url(https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=1920&q=80);
     background-repeat: no-repeat;
     background-position: 50% 80%;
     background-size: cover;

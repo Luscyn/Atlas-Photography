@@ -1,7 +1,7 @@
 /* About Section */
 
 .about-page {
-    background: linear-gradient(rgba(15, 47, 69, 0.4), rgba(15, 47, 69, 0.4)), url(../images/sub-hero-about.jpg);
+    background: linear-gradient(rgba(15, 47, 69, 0.4), rgba(15, 47, 69, 0.4)), url(https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=1920&q=80);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

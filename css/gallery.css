@@ -1,7 +1,7 @@
 /* Gallery Section */
 
 .gallery-page {
-    background: linear-gradient(rgba(15, 47, 69, 0.4), rgba(15, 47, 69, 0.4)), url(../images/sub-hero-gallery.jpg);
+    background: linear-gradient(rgba(15, 47, 69, 0.4), rgba(15, 47, 69, 0.4)), url(https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1920&q=80);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
